@@ -3,17 +3,20 @@ work_process:
   enable : true
   title : "Work Process"
   item:
-  - title : "Research and Plan"
+  - title : "Research"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Conducted biochemistry research with a professor at my undergraduate
+    institution. Studied receptor-receptor interactions with Ly6 proteins and AMPA receptors."
     
-  - title : "Design and Develop"
+  - title : "Skills"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Western blots, DNA and RNA extraction, biotinylation, immunofluorescence, 
+    PCR, and gel electrophoresis"
     
-  - title : "Deliver"
+  - title : "Courses"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Immunology, Organic Chemistry, Cell Biology, Microbiology, Developmental
+    Neurobiology, Animal Developmental Biology, Population Ecology, Ecomechanics, Genetics"
 
 
 # team

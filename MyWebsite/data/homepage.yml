@@ -1,0 +1,165 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Abby Jackson <br> Biologist Extraordinaire"
+
+# about
+about:
+  enable : true
+  content : "Hey ya'll. Welcome aboard. Please keep hands, feets, and tentacles inside the
+  vehicle at all times as we venture through The Website."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Fast Walking"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Cuticle Chewing"
+      progress : "100%"
+      color : "#9473e6"
+      
+    - title : "Arm Bending"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Child Wrangling"
+      progress : "110%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Girl Scout Brownie"
+      company : "Girl Scouts of the USA"
+      duration : "Jan 2006 - Feb 2008"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "High School Student"
+      company : "Roseville Area HIGH School"
+      duration : "Sep 2012 - Jun 2016"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Mayo Innovation Scholar"
+      company : "Mayo Clinic"
+      duration : "Oct 2019 - Mar 2020"
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Bachelor of Arts in Biology"
+      year : "2020"
+      academy : "Carleton College"
+      
+    - title : "High School Graduate"
+      year : "2016"
+      academy : "Roseville Area HIGH School"
+      
+    - title : "Middle School Graduate"
+      year : "2012"
+      academy : "Roseville Area Middle School"
+      
+    - title : "Elementary School Graduate"
+      year : "2010"
+      academy : "Falcon Heights Elementary School"
+
+# service
+#service:
+#  enable : true
+#  title : "Services"
+#  item:
+#    - title : "UI Design"
+#      icon : "ti-palette"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted : false
+#
+#    - title : "UX Design"
+#      icon : "ti-vector"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted : true
+#
+#    - title : "Interaction Design"
+#      icon : "ti-panel"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : true
+  title : "Testimonials"
+  item:
+    - name : "Narun Raman"
+      image : "images/testimonial/IMG_7670.jpg"
+      designation : "Boyfriend, Funder"
+      content : "Abby Jackson, what else can I say? Honestly, not much.
+      She's smart, sexy, and suave."
+      
+    - name : "Elon Musk"
+      image : "images/testimonial/elon_musk.jpeg"
+      designation : "Mr. Tesla, Mr. SpaceX"
+      content : "Elon Musk says that Abby Jackson is the most wonderful CS person ever. 
+      Knows all the CS that anybody need know."
+      
+    - name : "Michelle Obama"
+      image : "images/testimonial/michelle_obama.jpeg"
+      designation : "CEO, Funder"
+      content : "I know a lot of Abby's, is this one of Sasha or Malia's friends? Don't 
+      know who you're talking about honestly."
+
+# client logo slider
+clients_logo_slider:
+ enable : false
+ item:
+   - logo : "images/clients-logo/client-logo-1.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-2.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-3.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-4.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-5.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-1.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-2.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-3.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-4.png"
+     URL : "#"
+     
+   - logo : "images/clients-logo/client-logo-5.png"
+     URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
